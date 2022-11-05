@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SelcouthMeteor
-- 👀 I'm lover of develop 
+- 👀 I'm a development enthusiast.
 - 🌱 I’m a third year of middle school student.
 
 <!---
